@@ -74,6 +74,9 @@
                         "name": "AdditionalRoutingCapabilities"
                     },
                     {
+                        "name": "AdditionalStorageConfig"
+                    },
+                    {
                         "name": "AdminNetworkPolicy"
                     },
                     {
